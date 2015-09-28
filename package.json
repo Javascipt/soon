@@ -1,0 +1,29 @@
+{
+  "name": "soon",
+  "version": "1.0.0",
+  "description": "Coming soon package generator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javascipt/soon.git"
+  },
+  "keywords": [
+    "coming",
+    "soon",
+    "coming",
+    "soon",
+    "construction",
+    "package",
+    "generator"
+  ],
+  "author": "Khalid REHIOUI <Array.prototype@gmail.com> (http://github.com/javascipt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Javascipt/soon/issues"
+  },
+  "homepage": "https://github.com/Javascipt/soon#readme",
+  "preferGlobal": true,
+  "bin": {
+    "soon": "index.js"
+  }
+}
