@@ -25,5 +25,8 @@
   "preferGlobal": true,
   "bin": {
     "soon": "index.js"
+  },
+  "dependencies": {
+    "ejs": "^2.3.4"
   }
 }
