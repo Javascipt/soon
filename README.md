@@ -25,7 +25,7 @@ Here is a [demo](https://www.npmjs.com/package/soon-example) of a generated pack
 
 ### Quick tip:
 
-after generating your files you can take a quick look on the README.md file using the [detail](https://www.npmjs.com/package/detail) package, you can then modify your file and then publish your package
+after generating your files you can take a quick look at the README.md file using the [detail](https://www.npmjs.com/package/detail) package, you can then modify your file and then publish your package
 
 ### License
 MIT
