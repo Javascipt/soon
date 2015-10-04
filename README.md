@@ -20,30 +20,7 @@ You'll be asked some simple questions, once you answer them, you'll find a packa
 $ npm publish
 ```
 
-The README.md file will look like this :
-
-
-_______________________
-
-<p align="center">
-
-  <br>
-
-  <img src="https://raw.githubusercontent.com/Javascipt/soon/master/ressources/icons/icon.png" />
-  <br><br><br>
-
-  <b> We are not ready yet, we are probably wearing our hardhats and hardgloves to get this package released !!</b>
-  Make sure to follow us on twitter and github to be updated and be the first one to test our <b>AWSOME</b> package !
-  <br><br>
-  
-  <a target="_blank" href="http://twitter.com/javascipt">
-    <img src="https://raw.githubusercontent.com/Javascipt/soon/master/ressources/icons/twitter.png">
-  </a> <a target="_blank" href="http://github.com/javascipt">
-    <img src="https://raw.githubusercontent.com/Javascipt/soon/master/ressources/icons/github.png">
-  </a>
-</p>
-
-______________________
+Here is a [demo](https://www.npmjs.com/package/soon-example) of a generated package !
 
 
 ### Quick tip:
