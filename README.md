@@ -1,4 +1,7 @@
 # soon
+
+![soon](https://travis-ci.org/Javascipt/soon.svg)
+
 This is a coming soon package generator, it allows you to generate a package with all its files (package.json, README.md and a script returns empty object when required) just to let you first publish a package and work on it later!
 
 ### Installation
